@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/huy-bui-98/Wifimanager-ConfigBlynk"
+    "url": "https://github.com/huy-bui-gl/WifiManager-ConfigBlynk"
   },
   "frameworks": "arduino",
   "platforms": "espressif8266",
