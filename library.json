@@ -1,0 +1,13 @@
+{
+  "name": "Wifimanager-ConfigBlynk",
+  "keywords": "wifi, wi-fi, esp8266",
+  "description": "ESP8266 WiFi Connection manager with fallback web configuration portal",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/huy-bui-98/Wifimanager-ConfigBlynk"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif8266",
+  "version": "0.16.0"
+}
